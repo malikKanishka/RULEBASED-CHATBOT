@@ -1,0 +1,8 @@
+Python TEXT TO SPEACH:-
+pip install pyttsx3
+
+Selenium:-
+pip install selenium 
+
+Chrome Driver Download:-
+https://sites.google.com/chromium.org/driver/downloads
